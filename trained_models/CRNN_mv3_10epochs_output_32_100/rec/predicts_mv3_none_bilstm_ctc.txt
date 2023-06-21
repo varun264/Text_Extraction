@@ -1,0 +1,1 @@
+/content/PaddleOCR/train_data/content/test_crop/1570_0_cropped.jpg	Medical Specialty:	0.999866247177124
