@@ -5,7 +5,7 @@ Perform text extraction from noisy MT samples.
 This dataset contains sample medical transcriptions for various medical specialties. https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
 
 ##MT Sample with added noise to simulate unclear scanned document.
-<img width="144" alt="image" src="https://github.com/varun264/Text_Extraction/assets/78945555/0b38a1e3-390e-40fc-8ba8-464aed2f75d0">
+![image](https://github.com/varun264/Text_Extraction/assets/78945555/984f853e-480b-4df3-813e-7dc3ff9375e7)
 
 ##Details
 
