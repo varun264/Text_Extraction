@@ -32,6 +32,6 @@ CRNN architecture is built with MobileNetV3 and ResNet34 as backbones  using Pad
 
 ###Prediction of full document image ,when trained with image size of 32x320
 
-<img width="556" alt="image" src="https://github.com/varun264/Text_Extraction/assets/78945555/1072618f-46e8-4a60-a675-9abef9b0c0ec">
+#<img width="556" alt="image" src="https://github.com/varun264/Text_Extraction/assets/78945555/1072618f-46e8-4a60-a675-9abef9b0c0ec">
 
 
