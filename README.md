@@ -24,6 +24,7 @@ CRNN architecture is built with MobileNetV3 and ResNet34 as backbones  using Pad
 <img width="596" alt="image" src="https://github.com/varun264/Text_Extraction/assets/78945555/08489503-b2fc-4d56-aeac-99f2fbe4f446">
 
 ###Output of model, when trained with 1L images
+
 <img width="596" alt="image" src="https://github.com/varun264/Text_Extraction/assets/78945555/36e7f69a-8a7e-4148-86bf-88279b69e49b">
 
 ###Prediction of full document image ,when trained with image size of 32x100
@@ -34,4 +35,14 @@ CRNN architecture is built with MobileNetV3 and ResNet34 as backbones  using Pad
 
 #<img width="556" alt="image" src="https://github.com/varun264/Text_Extraction/assets/78945555/1072618f-46e8-4a60-a675-9abef9b0c0ec">
 
+##Inference time
+###For the image size 32X100
+####Inbuilt(DB detector) line detector takes around 0.3s – 0.4 s
+####Recogniser takes 4-5 seconds for extracting text
+####Total prediction is averaged around 5 seconds
+###For the image size 32X320
+####Inbuilt(DB detector) line detector takes around 0.7s – 0.8 s
+####Recogniser takes 4-5 seconds for extracting text
+####Total prediction is averaged around 5 seconds
+###ONNX runtime reduced total prediction by 2-3 s 
 
